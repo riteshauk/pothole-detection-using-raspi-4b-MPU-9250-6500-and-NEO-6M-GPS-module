@@ -15,14 +15,14 @@ LATITUDE = 0
 
 # Firebase configuration
 config = {
- "apiKey": "AIzaSyDv9aVCAK3QfpyZPsRzekJlc3MsBfZoxrg",
-  "authDomain": "test-f6ef2.firebaseapp.com",
-  "databaseURL": "https://test-f6ef2-default-rtdb.firebaseio.com",
- "projectId": "test-f6ef2",
-  "storageBucket": "test-f6ef2.appspot.com",
-  "messagingSenderId": "148456236172",
-  "appId": "1:148456236172:web:8a09751c0fd0a1a76f47a9",
-  "measurementId": "G-MX40KYM5YS"
+ "apiKey": ,
+  "authDomain": ,
+  "databaseURL": ",
+ "projectId": ,
+  "storageBucket": ,
+  "messagingSenderId":,
+  "appId": ,
+  "measurementId": 
 }
 def push_user_to_firebase(longitude, latitude, pdi, config):
     print("sending")
